@@ -4,7 +4,7 @@
 name: Maven Package
 
 env:
-   DOCKER_HUB_REPO: sammyloco199/DevOps
+   DOCKER_HUB_REPO: sammyloco199/devops
 
 on:  
   push:  
